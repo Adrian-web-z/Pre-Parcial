@@ -1,2 +1,0 @@
-# Pre-Parcial
-pre-parcial
